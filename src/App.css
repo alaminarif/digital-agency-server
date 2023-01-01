@@ -12,7 +12,9 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+/* .bag-color {
+  background: linear-gradient(to right, #42275a, #734b6d);
+} */
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
